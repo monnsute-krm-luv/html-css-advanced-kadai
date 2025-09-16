@@ -583,7 +583,7 @@ text-align: left;
   position: relative;
 }
 
-#product-title-h1 {
+#product-title h1 {
   position: absolute;
   top: 0;
   left: 100px;
@@ -1107,3 +1107,4 @@ SP用のスタイル
 
 
   
+
